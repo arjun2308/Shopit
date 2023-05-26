@@ -1,2 +1,4 @@
 # Shopit
-A Shopping app 
+At present, there are numerous shopping apps in which you can just sit at home and order anything you want but, before buying there are a few things which we used to take care like the quality, whether the ordered product will fit or not, when it will be delivered and a lot of things. So, the main problem here is that we can't try/use the product until we buy it first. But what if we get to try (e.g., Clothes, shoes, etc.) that product beforehand? We might end up liking the product and might just buy it. And these will benefit both consumer and seller. 
+So, this is all about online shopping but when it came to offline, we all know that "Shopping offline is tedious". You might have experienced things like crowds, long waiting lines, what we ask for and what we get, and many more. But what if we can shop for anything from the shop just standing outside the shop? We can compare prices, can look for other variations of the same product, and the essential thing we can try it too. This Project will allow its users to try the product that they want to buy but are confused about and delivers the product without going inside the shop.
+
